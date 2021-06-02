@@ -18,9 +18,9 @@ Custom YOLO V5 :alien: :cyclone:
 
 <div class="row" align="center">
   <h3 >Results: </h3>
-  <img src="./docs/r1.jpg" width="300" height="300" />
-  <img src="./docs/r2.jpg" width="300" height="300" />
-  <img src="./docs/r3.jpg" width="300" height="300" />
+  <img src="./docs/r1.jpg" width="250" height="250" />
+  <img src="./docs/r2.jpg" width="250" height="250" />
+  <img src="./docs/r3.jpg" width="250" height="250" />
 </div>
 
 <div class="row" align="center">
